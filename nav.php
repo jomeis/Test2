@@ -1,0 +1,1 @@
+<a href="/index.php">Home</a> | <a href="/pages/text.php">Text</a> | <a href="/pages/list.php">List</a> | <a href="https://html-elements-6.webdesignghs2022.repl.co/pages/table.php">Table</a> | <a href="https://html-elements-6.webdesignghs2022.repl.co/pages/form.php"> Form </a> | <a href="https://html-elements-6.webdesignghs2022.repl.co/pages/programming.php"> Programming </a> 

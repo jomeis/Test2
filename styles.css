@@ -1,0 +1,92 @@
+h1 {
+  background-color: #b780b1;
+}
+
+body {
+  background-color: #99c2ba;
+}
+
+.myTitle  {
+  background-color: #809db7;
+  border: solid 2px #001911;
+  border-radius: 7px;
+  padding: 5px;
+}
+
+.cookies {
+  background-color: #b45f61;
+}
+
+a {
+  color: #af9a60;
+}
+
+ul.extra {
+  list-style-type: lower-alpha;
+}
+
+ol.roman {
+  list-style-type: upper-roman;
+}
+
+ul.square {
+  list-style-type: square;
+  color: #7680cb;
+}
+
+li.more {
+  list-style-type: lower-alpha;
+}
+
+th, td, table {
+  border: 1px solid black;
+}
+
+th {
+  text-align:center;
+  background-color: yellow;
+  color: blue;
+}
+
+tr:nth-child(even) {
+  text-align:right;
+}
+
+tr:nth-child(odd) {
+  color: white;
+  background-color: #000000;
+}
+
+tr {
+  background-color: white;
+  color:black;
+}
+
+
+select{
+  color: #058565;
+  background: #ffdbdb;
+}
+
+#state{
+  color: #8680d6;
+  background: black;
+
+}
+
+#scroll {
+  height: 200px;
+  overflow: scroll;
+  background: #327769;
+}
+
+#vis:hover  {
+  visibility: show;
+background-color: black;
+}
+
+.offset {
+  position: relative;
+  top: 500px;
+  left: 200px;
+}
