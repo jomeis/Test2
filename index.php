@@ -25,6 +25,12 @@
       <div class="col d-flex justify-content-center">
         <img src="https://miro.medium.com/max/1400/0*c43pw7UiQgpfjDCl.jpg" width="33%">
       </div>
+    </div> 
+    
+    <div class="row">
+      <div class="col d-flex justify-content-center">
+        <img src="https://miro.medium.com/max/1400/0*c43pw7UiQgpfjDCl.jpg" width="33%">
+      </div>
     </div>
       
     
